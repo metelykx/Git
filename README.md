@@ -1,2 +1,1 @@
-This is project for training my skills of the Git
-New branch for training
+This is branch for training
